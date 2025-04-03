@@ -1,0 +1,29 @@
+.text-discount {
+  font-size: large;
+}
+
+.text-old-discount {
+  text-decoration: line-through;
+  font-size: small;
+}
+
+.porc-discount {
+  color: red;
+  font-weight: 500;
+}
+
+.banner-discount {
+  padding: 30px 24px 30px 24px;
+  background-color: red;
+  font-weight: 600;
+  font-size: 30px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.input-discount {
+  width: 300px;
+  margin-top: 12px;
+}
